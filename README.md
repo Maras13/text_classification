@@ -69,3 +69,9 @@ python cli.py "Here are the lyrics snippet..."
 This project includes the generation of word clouds for different artists, where you can visually explore common words associated with the artists based on the lyrics dataset used in the model. 
 These word clouds help to identify frequently used terms and themes in the artists' lyrics.
 
+### Madonna Word Cloud
+![Madonna Word Cloud](wordclouds/madonna_wordcloud.png)
+
+### RHCP Word Cloud
+![RHCP Word Cloud](wordclouds/rhcp_wordcloud.png)
+
